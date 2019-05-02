@@ -1,0 +1,5 @@
+info:
+  app.name: lirt-microservicecloud8001
+  company.name: www.lirt.com
+  build.artifactId: @project.artifactId@
+  build.version: @project.version@

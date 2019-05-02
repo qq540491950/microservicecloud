@@ -1,0 +1,5 @@
+info:
+  app.name: lirt-microservicecloud8001
+  company.name: www.lirt.com
+  build.artifactId: microservicecloud-config-dept-client-8001
+  build.version: 0.0.1-SNAPSHOT
